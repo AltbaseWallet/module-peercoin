@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "peercoin",
+  "displayName": "Peercoin",
+  "version": "0.1.9",
+  "kind": "utxo",
+  "frontend": "frontend/index.ts",
+  "nativeWallet": true,
+  "nativeNode": true,
+  "platforms": [
+    "windows-x64",
+    "linux-x64",
+    "macos-x64",
+    "macos-arm64"
+  ],
+  "generatedBinaries": false
+}
